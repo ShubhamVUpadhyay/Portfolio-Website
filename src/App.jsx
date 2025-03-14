@@ -1,8 +1,9 @@
 import './App.css'
+import { Home } from './Pages/Home'
 function App() {
   return (
     <>
-    <h1>Welcome to my portfolio website</h1>
+    <Home />
     </>
   )
 }
